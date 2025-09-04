@@ -1,0 +1,28 @@
+.arman-dp{
+  flex: 1;
+  width: 100%;
+  padding: 5px;
+  background-color: white;
+}
+
+body{
+  background-color: black;
+}
+
+.arm-A{
+  width: 400px;
+  height: 700px;
+}
+
+.arm-B p{
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  position: absolute;
+  top: 2%;
+  right: 30%;
+}
+
+.container1{
+  position: relative;
+}
